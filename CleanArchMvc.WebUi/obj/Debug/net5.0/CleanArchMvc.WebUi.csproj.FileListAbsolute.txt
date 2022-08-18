@@ -1,3 +1,9 @@
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\appsettings.json
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.WebUi.exe
@@ -6,9 +12,11 @@ C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.WebUi.runtimeconfig.dev.json
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.WebUi.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.WebUi.pdb
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -48,13 +56,6 @@ C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.csproj.AssemblyReference.cache
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.AssemblyInfoInputs.cache
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.AssemblyInfo.cs
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.csproj.CoreCompileInputs.cache
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\scopedcss\bundle\CleanArchMvc.WebUi.styles.css
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUi.StaticWebAssets.Manifest.cache
 C:\Users\Kelly\source\repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net5.0\CleanArchMvc.WebUi.RazorTargetAssemblyInfo.cache

@@ -25,7 +25,7 @@ namespace CleanArchMvc.Infra.Data.Repositories
             => await _context.Products.FindAsync(id);
 
         public async Task<Product> GetByIdCategoria(int? id)
-          =>  await _context.Products.Include(x=>x.IdCategory)
+          =>  await _context.Products.Include(x=>x.Category)
             .SingleOrDefaultAsync(x=>x.Id == id);
 
 

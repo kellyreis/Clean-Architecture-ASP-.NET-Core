@@ -18,9 +18,10 @@ namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
             builder.Property(t => t.Name).HasMaxLength(100).IsRequired();
 
             builder.HasData(
-                new Category("Material Escolar", 1),
-                  new Category("Tetse", 2)
-                );
+             new Category("Material Escolar",1 ),
+             new Category("Eletrônicos",2),
+              new Category("Acessórios",3)
+           );
         }
     }
 }

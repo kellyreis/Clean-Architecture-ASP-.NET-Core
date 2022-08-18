@@ -9,19 +9,17 @@ namespace CleanArchMvc.Infra.Ioc
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddInfrasctructure(
-            this IServiceCollection services,
-            IConfiguration conFiguration)
+        public static IServiceCollection AddInfrastructure(this IServiceCollection services,
+            IConfiguration configuration)
         {
-            services.AddDbContext<AppDbContext>(options => 
-            options.UseSqlServer(conFiguration.GetConnectionString("DefaultConnection"
-            ),b => b.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)));
+            services.AddDbContext<AppDbContext>(options =>
+             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"
+            ), b => b.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)));
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
 
             return services;
-
         }
     }
 }
