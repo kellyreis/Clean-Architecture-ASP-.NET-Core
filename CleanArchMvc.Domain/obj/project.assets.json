@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\Kelly\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "projectName": "CleanArchMvc.Domain",
-      "projectPath": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "projectPath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",

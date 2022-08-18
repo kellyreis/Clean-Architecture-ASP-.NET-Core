@@ -1712,7 +1712,7 @@
       },
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -6130,11 +6130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "projectName": "CleanArchMvc.Domain.Tests",
-      "projectPath": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6151,8 +6151,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "C:\\Users\\Kelly\\Source\\Repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }

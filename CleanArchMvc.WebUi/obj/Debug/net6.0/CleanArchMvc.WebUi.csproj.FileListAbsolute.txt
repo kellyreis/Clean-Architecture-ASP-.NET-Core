@@ -1,8 +1,0 @@
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.csproj.AssemblyReference.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.AssemblyInfoInputs.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.AssemblyInfo.cs
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.csproj.CoreCompileInputs.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.RazorAssemblyInfo.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.WebUi\obj\Debug\net6.0\CleanArchMvc.WebUi.RazorAssemblyInfo.cs

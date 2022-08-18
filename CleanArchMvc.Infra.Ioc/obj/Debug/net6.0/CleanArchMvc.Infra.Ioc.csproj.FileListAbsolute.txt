@@ -1,5 +1,0 @@
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.csproj.AssemblyReference.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.AssemblyInfoInputs.cache
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.AssemblyInfo.cs
-C:\Users\Kelly\Source\Repos\Clean-Architecture-ASP-.NET-Core\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.csproj.CoreCompileInputs.cache
