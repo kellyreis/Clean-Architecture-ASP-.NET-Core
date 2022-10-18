@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3GvpjpHsOo3m3uVarZS+zP0Zu+HjsjvutgHErAWua7ZrHC2UljoU6H+ksSIEs8SCPdd+D/qr4NgPS4bigb58bQ==",
+  "dgSpecHash": "jgPWLwL88Tc/Np3E2fU13E3vUGMB8Uxz99vJ4jviBBQ9ycFNzMmT0brY32l0xd4AMUyKO0Yxqoo0AY0oXMKOPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kelly\\source\\repos\\Clean-Architecture-ASP-.NET-Core\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
   "expectedPackageFiles": [

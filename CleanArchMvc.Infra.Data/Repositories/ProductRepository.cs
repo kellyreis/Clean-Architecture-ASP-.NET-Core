@@ -41,7 +41,7 @@ namespace CleanArchMvc.Infra.Data.Repositories
         }
 
         public async Task<Product> Update(Product product)
-        {
+        {            
             _context.Update(product);
             await _context.SaveChangesAsync();
             return product;
